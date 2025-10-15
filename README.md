@@ -7,7 +7,10 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nama-pengguna-github-anda&label=Profil%20dilihat&color=0e75b6&style=flat" alt="nama-pengguna-github-anda" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mhdfarhan1&label=Profil%20dilihat&color=0e75b6&style=flat" alt="Mhdfarhan1" />
+</p>
+
 
 - 🎓 Saat ini saya adalah seorang mahasiswa di **[POLITEKNIK NEGERI BATAM]**  
 - 💻 Role: **Mahasiswa / Backend **  
