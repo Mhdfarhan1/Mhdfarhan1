@@ -2,7 +2,7 @@
 <h3 align="center">Seorang Fullstack Web Developer yang bersemangat dari Indonesia</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/computer.gif" alt="Coding" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Ym0zMGJ5ZnBmZ3ltcGZ6ampnanZkcmtsY281MzRqcHl3dmw4bWczcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gXr3j6YAClXFfZABn5/giphy.gif" alt="Coding" width="500"/>
 </p>
 
 ---
