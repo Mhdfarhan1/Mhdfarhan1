@@ -9,9 +9,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nama-pengguna-github-anda&label=Profil%20dilihat&color=0e75b6&style=flat" alt="nama-pengguna-github-anda" /> </p>
 
-- 🎓 Saat ini saya adalah seorang mahasiswa di **[POLITEKNIK NEGERI BATAM]**
-- 📫 Hubungi saya melalui: **farhankudap06@gmail.com**
-- 📍 Saat ini saya tinggal di **[Kota BATAM, Negara INDONESIA]**
+- 🎓 Saat ini saya adalah seorang mahasiswa di **[POLITEKNIK NEGERI BATAM]**  
+- 💻 Role: **Mahasiswa / Backend **  
+- 🌱 Saat ini saya belajar **Laravel, PHP, JavaScript, Tailwind CSS, dan flutter**  
+- 📫 Hubungi saya melalui: **farhankudap06@gmail.com**  
+- 📍 Berdomisili di **Kota BATAM, INDONESIA**  
+- ⚡ Motto: "Belajar, Bereksperimen, dan Berkarya!"  
 
 ---
 
